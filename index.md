@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Test content
 
-I'm glad you are here. I plan to talk about ...
+This is just test content. Don't worry about it.
